@@ -1,7 +1,7 @@
 # CLONE PROJECT
 For cloning project, please, use the next command in the command line: 
 
-`git clone `
+`git clone https://github.com/ahutsul/abs-java-selenium-hwk.git`
 
 # RUN TEST
 There are three tests:
